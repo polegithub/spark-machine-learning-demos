@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dga-graphx.iml" filepath="$PROJECT_DIR$/dga-graphx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dga-graphx_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dga-graphx_main.iml" group="dga-graphx" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dga-graphx_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dga-graphx_test.iml" group="dga-graphx" />
+    </modules>
+  </component>
+</project>
